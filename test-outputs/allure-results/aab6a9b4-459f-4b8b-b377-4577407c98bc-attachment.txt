@@ -1,0 +1,149 @@
+[INFO] - [TestNG] Running:
+  C:\Users\mahmo\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - Loading Properties File Data
+[INFO] - Driver created on:  Firefox
+[INFO] -  Test Execution Start :
+[INFO] - Cleaned directory successfully: test-outputs\allure-results
+[INFO] - Cleaned directory successfully: test-outputs\Logs
+[INFO] - Navigated to URL:  https://awesomeqa.com/ui/
+[INFO] - Waiting for element to be clickable:  By.cssSelector: [title='My Account']
+[INFO] - Waiting for element to be visible:  By.cssSelector: [title='My Account']
+[INFO] - Finding element:  By.cssSelector: [title='My Account']
+[INFO] - Clicked on the element:  By.cssSelector: [title='My Account']
+[INFO] - Waiting for element to be clickable:  By.linkText: Register
+[INFO] - Waiting for element to be visible:  By.linkText: Register
+[INFO] - Finding element:  By.linkText: Register
+[INFO] - Clicked on the element:  By.linkText: Register
+[INFO] - Page title:  Register Account
+[INFO] - Waiting for element to be visible:  By.id: input-firstname
+[INFO] - Finding element:  By.id: input-firstname
+[INFO] - Finding element:  By.id: input-firstname
+[INFO] - Data entered:  mahmoud  in the field:  By.id: input-firstname
+[INFO] - Waiting for element to be visible:  By.id: input-lastname
+[INFO] - Finding element:  By.id: input-lastname
+[INFO] - Finding element:  By.id: input-lastname
+[INFO] - Data entered:  saad  in the field:  By.id: input-lastname
+[INFO] - Waiting for element to be visible:  By.id: input-email
+[INFO] - Finding element:  By.id: input-email
+[INFO] - Finding element:  By.id: input-email
+[INFO] - Data entered:  Sylvestera@a.com  in the field:  By.id: input-email
+[INFO] - Waiting for element to be visible:  By.id: input-telephone
+[INFO] - Finding element:  By.id: input-telephone
+[INFO] - Finding element:  By.id: input-telephone
+[INFO] - Data entered:  012345  in the field:  By.id: input-telephone
+[INFO] - Waiting for element to be visible:  By.id: input-password
+[INFO] - Finding element:  By.id: input-password
+[INFO] - Finding element:  By.id: input-password
+[INFO] - Data entered:  123456789  in the field:  By.id: input-password
+[INFO] - Waiting for element to be visible:  By.id: input-confirm
+[INFO] - Finding element:  By.id: input-confirm
+[INFO] - Finding element:  By.id: input-confirm
+[INFO] - Data entered:  123456789  in the field:  By.id: input-confirm
+[INFO] - Waiting for element to be clickable:  By.cssSelector: [name='agree']
+[INFO] - Waiting for element to be visible:  By.cssSelector: [name='agree']
+[INFO] - Finding element:  By.cssSelector: [name='agree']
+[INFO] - Clicked on the element:  By.cssSelector: [name='agree']
+[INFO] - Waiting for element to be clickable:  By.cssSelector: [value='Continue']
+[INFO] - Waiting for element to be visible:  By.cssSelector: [value='Continue']
+[INFO] - Finding element:  By.cssSelector: [value='Continue']
+[INFO] - Clicked on the element:  By.cssSelector: [value='Continue']
+[INFO] - Page title:  Your Account Has Been Created!
+[INFO] - Waiting for element to be clickable:  By.linkText: Continue
+[INFO] - Waiting for element to be visible:  By.linkText: Continue
+[INFO] - Finding element:  By.linkText: Continue
+[INFO] - Clicked on the element:  By.linkText: Continue
+[INFO] - Current URL:  https://awesomeqa.com/ui/index.php?route=account/account
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be visible:  By.name: search
+[INFO] - Finding element:  By.name: search
+[INFO] - Finding element:  By.name: search
+[INFO] - Data entered:  mac  in the field:  By.name: search
+[INFO] - Waiting for element to be clickable:  By.cssSelector: .col-sm-5 button
+[INFO] - Waiting for element to be visible:  By.cssSelector: .col-sm-5 button
+[INFO] - Finding element:  By.cssSelector: .col-sm-5 button
+[INFO] - Clicked on the element:  By.cssSelector: .col-sm-5 button
+[INFO] - Page title:  Search - mac
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be clickable:  [unknown locator]
+[INFO] - Waiting for element to be visible:  [unknown locator]
+[INFO] - Finding element:  [unknown locator]
+[INFO] - Clicked on the element:  [unknown locator]
+[INFO] - Waiting for element to be visible:  By.className: alert
+[INFO] - Finding element:  By.className: alert
+[INFO] - Getting text from the element:  By.className: alert  Text:  Success: You have added MacBook to your shopping cart!
+×
+[INFO] - Finding element:  By.className: alert
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be clickable:  [unknown locator]
+[INFO] - Waiting for element to be visible:  [unknown locator]
+[INFO] - Finding element:  [unknown locator]
+[INFO] - Clicked on the element:  [unknown locator]
+[INFO] - Waiting for element to be visible:  By.className: alert
+[INFO] - Finding element:  By.className: alert
+[INFO] - Getting text from the element:  By.className: alert  Text:  Success: You have added iMac to your shopping cart!
+×
+[INFO] - Finding element:  By.className: alert
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be clickable:  [unknown locator]
+[INFO] - Waiting for element to be visible:  [unknown locator]
+[INFO] - Finding element:  [unknown locator]
+[INFO] - Clicked on the element:  [unknown locator]
+[INFO] - Waiting for element to be visible:  By.className: alert
+[INFO] - Finding element:  By.className: alert
+[INFO] - Getting text from the element:  By.className: alert  Text:  Success: You have added MacBook Air to your shopping cart!
+×
+[INFO] - Finding element:  By.className: alert
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be clickable:  [unknown locator]
+[INFO] - Waiting for element to be visible:  [unknown locator]
+[INFO] - Finding element:  [unknown locator]
+[INFO] - Clicked on the element:  [unknown locator]
+[INFO] - Waiting for element to be visible:  By.className: alert
+[INFO] - Finding element:  By.className: alert
+[INFO] - Getting text from the element:  By.className: alert  Text:  Success: You have added MacBook Pro to your shopping cart!
+×
+[INFO] - Finding element:  By.className: alert
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be clickable:  By.cssSelector: #cart button
+[INFO] - Waiting for element to be visible:  By.cssSelector: #cart button
+[INFO] - Finding element:  By.cssSelector: #cart button
+[INFO] - Clicked on the element:  By.cssSelector: #cart button
+[INFO] - Waiting for element to be clickable:  By.partialLinkText: Cart
+[INFO] - Waiting for element to be visible:  By.partialLinkText: Cart
+[INFO] - Finding element:  By.partialLinkText: Cart
+[INFO] - Clicked on the element:  By.partialLinkText: Cart
+[INFO] - Page title:  Shopping Cart
+[INFO] - removeiMacfrom cart
+[INFO] - Waiting for element to be clickable:  [unknown locator]
+[INFO] - Waiting for element to be visible:  [unknown locator]
+[INFO] - Finding element:  [unknown locator]
+[INFO] - Clicked on the element:  [unknown locator]
+[INFO] - Waiting for element to be visible:  By.xpath: //*[@id='content']/form/div/table
+[INFO] - Getting html source text from element:  By.xpath: //*[@id='content']/form/div/table
+[INFO] - Finding element:  By.xpath: //*[@id='content']/form/div/table
+[INFO] - assertiMacRemovedFromCart
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be clickable:  By.cssSelector: #cart button
+[INFO] - Waiting for element to be visible:  By.cssSelector: #cart button
+[INFO] - Finding element:  By.cssSelector: #cart button
+[INFO] - Clicked on the element:  By.cssSelector: #cart button
+[INFO] - removing product  MacBook Pro  from cart 
+[INFO] - Waiting for element to be clickable:  [unknown locator]
+[INFO] - Waiting for element to be visible:  [unknown locator]
+[INFO] - Finding element:  [unknown locator]
+[INFO] - Clicked on the element:  [unknown locator]
+[INFO] - Waiting for element to be clickable:  By.cssSelector: #cart button
+[INFO] - Waiting for element to be visible:  By.cssSelector: #cart button
+[INFO] - Finding element:  By.cssSelector: #cart button
+[INFO] - Clicked on the element:  By.cssSelector: #cart button
+[INFO] - Waiting for element to be visible:  By.cssSelector: #cart ul
+[INFO] - Getting html source text from element:  By.cssSelector: #cart ul
+[INFO] - Finding element:  By.cssSelector: #cart ul
+[INFO] - assertMacBook ProRemovedFromCart
+[INFO] - Logs attached to Allure report
+[INFO] - Waiting for element to be clickable:  By.linkText: Continue Shopping
+[INFO] - Waiting for element to be visible:  By.linkText: Continue Shopping
+[INFO] - Finding element:  By.linkText: Continue Shopping
+[INFO] - Clicked on the element:  By.linkText: Continue Shopping
+[INFO] - Page title:  Your Store
